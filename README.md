@@ -10,8 +10,7 @@ This project is a simple app to facilitate petrol purchasing at the gas station
 
 ## Technologies
 Project is created with:
-* React-Native
-* Expo
+* React-Native CLI
 * Node.js
 * Visual Studio Code editor
 * Firebase as database
@@ -20,7 +19,6 @@ Project is created with:
 To run this project, download project files locally
 
 $ cd ../ProjektasTask
-$ expo start
 
 ## Dependencies
 Project uses dependencies such as :
