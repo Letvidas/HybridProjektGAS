@@ -27,3 +27,4 @@ Project uses dependencies such as :
 * react-navigate/bottoms-tabs
 * react-native-gesture-handler
 * react-navigation/native
+* https://github.com/moaazsidat/react-native-qrcode-scanner
