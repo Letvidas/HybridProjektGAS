@@ -29,3 +29,5 @@ Project uses dependencies such as :
 * react-native-gesture-handler
 * react-navigation/native
 * https://github.com/moaazsidat/react-native-qrcode-scanner
+* uuid
+* getrandomvalues
