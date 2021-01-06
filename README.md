@@ -24,6 +24,7 @@ $ cd ../ProjektasTask
 Project uses dependencies such as :
 * react-native
 * react-redux
+* redux-thunk
 * react-navigate/bottoms-tabs
 * react-native-gesture-handler
 * react-navigation/native
