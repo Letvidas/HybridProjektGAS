@@ -1,11 +1,27 @@
-##Introduction
-Welcome to GasApp
-!#Welcome to an open source project called ‘GasApp’. This project was made for a Software engineering module at my university. 
-Technology Stack#
-Front End → React
-Back End → React
-Database → Firebase
-User Guide
+# GasApp
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Dependencies](#dependencies)
+
+## General info
+This project is a simple app to facilitate petrol purchasing at the gas station
+
+## Technologies
+Project is created with:
+* React-Native
+* Expo
+* Node.js
+* Visual Studio Code editor
+* Firebase as database
+
+## Setup
+To run this project, download project files locally
+
+$ cd ../ProjektasTask
+$ expo start
+
 ## Dependencies
 Project uses dependencies such as :
 * react-native
